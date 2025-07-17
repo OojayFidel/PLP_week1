@@ -1,0 +1,1 @@
+print("Hello, this is script.py! Let's run the calculator from calculator.py.")
